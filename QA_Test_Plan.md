@@ -17,3 +17,4 @@ The test cases and expected results are documented. Physical hardware testing an
 
 ## QA Tracking
 The four identified problems are recorded in GitHub Issues for root cause analysis and solution tracking.
+QA documentation update: This file is maintained in the qa-test-plan branch for review.
